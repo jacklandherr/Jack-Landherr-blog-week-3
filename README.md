@@ -11,4 +11,4 @@ My first experience/memory with any sort of technology is playing backyard baseb
 ### Works Cited
 Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the Internet. Social Studies of Science, Vol. 36, No. 3. Sage Publications
 Link to my self portrait
-[https://jacklandherr.github.io/"Jack-Self-Portrait"/]
+[https://jacklandherr.github.io/Jack-Self-Portrait/]
